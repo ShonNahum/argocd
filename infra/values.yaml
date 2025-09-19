@@ -1,0 +1,11 @@
+server:
+  replicaCount: 1
+applicationController:
+  replicaCount: 1
+repoServer:
+  replicaCount: 1
+redis:
+  enabled: false
+configs:
+  secrets:
+    admin: "UeXNm1Nqc-KK8Qbn"
